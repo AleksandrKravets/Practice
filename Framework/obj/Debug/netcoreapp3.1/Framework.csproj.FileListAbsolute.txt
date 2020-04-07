@@ -1,0 +1,9 @@
+C:\Users\nitro\source\repos\DBFramework\Framework\bin\Debug\netcoreapp3.1\Framework.deps.json
+C:\Users\nitro\source\repos\DBFramework\Framework\bin\Debug\netcoreapp3.1\Framework.dll
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.csprojAssemblyReference.cache
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfoInputs.cache
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfo.cs
+C:\Users\nitro\source\repos\DBFramework\Framework\bin\Debug\netcoreapp3.1\Framework.pdb
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.csproj.CoreCompileInputs.cache
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.dll
+C:\Users\nitro\source\repos\DBFramework\Framework\obj\Debug\netcoreapp3.1\Framework.pdb
